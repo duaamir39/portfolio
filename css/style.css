@@ -377,7 +377,7 @@ header .navbar a:hover{
 }
 
 .contact .row form label i{
-    color: var(--purple);   /* Icon color */
+    color: var(--purple);   
     margin-right: .5rem;
 }
 
